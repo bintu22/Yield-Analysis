@@ -7,6 +7,7 @@ The goal of this project was to analyze Bid Data and Session Data to share insig
 * **CPM:** Cost per 1,000 impressions. This metric is useful for understanding how much buyers are paying for 1,000 impressions so we can set adequate floor prices.
 * **Impressions:** an impression is counted when an ad is servied and begins to render on a user's device. Tracking this metric allows us to understand the quantity of monetization units sold.
 
+# Insights Deep-Dive
 <img width="2146" height="700" alt="image" src="https://github.com/user-attachments/assets/5632aac7-9b61-453e-a552-0d0f3e809cb9" />
 <img width="556" height="348" alt="image" src="https://github.com/user-attachments/assets/79faa6e1-3dda-418b-8bae-2cdf30f161c6" />
 <br>
@@ -15,7 +16,13 @@ The goal of this project was to analyze Bid Data and Session Data to share insig
 <img width="2476" height="970" alt="image" src="https://github.com/user-attachments/assets/647e3190-0432-4a0a-af02-66126c4e6d87" />
 <img width="2162" height="1122" alt="image" src="https://github.com/user-attachments/assets/9c1dd8b5-5d5b-4268-b5dd-f94163a1765b" />
 
-<img width="2168" height="420" alt="image" src="https://github.com/user-attachments/assets/8217b5b0-9947-4133-b625-c779c1856de4" />
+# Recommendations
+* **ttd is currently our top performing bidder in terms of revenue and impressions and should continue to be prioritized. However, there could be an opportunitiy to earn more revenue from bidders that have a CPM above ttd's at $2.41**
+* **As the top 2 countries by revenue and impressions, US and CAN should continue to be prioritized to retain market share**
+* **Remove placement Desktop 468x60 and Phone 468x60 to replace them with a more desired placement sizes.** Desktop 468x60 only brought in $0.05 revenue and Phone 468x60 brought in $0.00, compared to the highest revenue driver, Phone 300x250, which brought in $300.88.
+* **Explore expaning the placement size offerrings on Phone and Tablet,** the top 2 performing devices, to earn more revenue.
+* **Explore if there are any opportunities to increase revenue by encouraging Desktop inventory buyers to purchase more Tablet inventory.** The average CPM is highest for Tablets, but Tablets currently only comprise 7% of total impressions.
+* **Test removing s2s, amxfsx, and unrulyfsx** because a low % of imps came through those bidder/sources (3% s2s, 0.002% amxfsx, 0.045% unrulyfsx).
 
 # Future Analysis
 Additional data points that would help make this data set much more usable for a deeper analysis:
