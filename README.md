@@ -8,8 +8,8 @@ The goal of this project was to analyze Bid Data and Session Data to share insig
 * **Impressions:** an impression is counted when an ad is servied and begins to render on a user's device. Tracking this metric allows us to understand the quantity of monetization units sold.
 
 <img width="2146" height="700" alt="image" src="https://github.com/user-attachments/assets/5632aac7-9b61-453e-a552-0d0f3e809cb9" />
-<img width="654" height="409" alt="image" src="https://github.com/user-attachments/assets/79faa6e1-3dda-418b-8bae-2cdf30f161c6" />
-
+<img width="556" height="348" alt="image" src="https://github.com/user-attachments/assets/79faa6e1-3dda-418b-8bae-2cdf30f161c6" />
+<br>
 <img width="389" height="342" alt="image" src="https://github.com/user-attachments/assets/44305aa1-eb48-4b47-b4d7-24f8c0b44a4c" />
 
 <img width="2476" height="970" alt="image" src="https://github.com/user-attachments/assets/647e3190-0432-4a0a-af02-66126c4e6d87" />
